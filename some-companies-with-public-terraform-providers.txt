@@ -1,0 +1,111 @@
+non exhaustive list, asked gpt to list them out based on a csv table of a few hundreds providers
+
+## Technology/Cloud Services:
+
+AWS (Amazon Web Services)
+Microsoft (Azure and Azure DevOps)
+IBM Cloud
+Oracle
+Alibaba Cloud (Aliyun)
+Google (Google Workspace)
+VMware
+Palo Alto Networks
+Cisco
+Splunk
+F5 Networks
+Datadog
+GitHub
+New Relic
+Grafana
+MongoDB
+GitLab
+Auth0
+Snowflake
+Elastic
+DigitalOcean
+Linode
+Harbor (by goharbor)
+Sysdig
+DNSimple
+
+## Development Tools/Platforms:
+
+GitHub
+GitLab
+Grafana
+Terraform (by HashiCorp)
+LaunchDarkly
+Octopus Deploy
+Harbor (by goharbor)
+ContentSquare
+Figma
+Buildkite
+
+## Cybersecurity:
+
+Palo Alto Networks
+Cisco
+HashiCorp (Vault)
+HashiCorp (Boundary)
+Venafi
+
+## Monitoring/Analytics:
+
+Datadog
+New Relic
+Grafana
+Splunk
+Sumo Logic
+Sysdig
+
+## Database/Big Data:
+
+MongoDB
+Snowflake
+Elastic
+Dynatrace
+Aiven
+
+## Networking:
+
+Cisco
+HashiCorp (Consul)
+HashiCorp (Boundary)
+F5 Networks
+Akamai
+Dynatrace
+
+## DevOps/CI-CD:
+
+GitHub
+GitLab
+HashiCorp (Terraform, Vault, Consul)
+Octopus Deploy
+Harbor (by goharbor)
+Buildkite
+
+## Identity/Access Management:
+
+Auth0
+HashiCorp (Vault)
+
+## Collaboration/Productivity:
+
+Google (Google Workspace)
+Figma
+
+## Infrastructure/Cloud Management:
+
+HashiCorp (Terraform, Vault, Consul)
+VMware
+DigitalOcean
+Linode
+OpenTelekom Cloud
+
+## Financial Services:
+
+Mastercard
+
+## Retail/E-commerce:
+
+ContentSquare
